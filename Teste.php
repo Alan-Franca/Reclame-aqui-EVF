@@ -155,7 +155,7 @@ function validarFeedbackAluno() {
     </main>
 
     <footer>
-        Todos os direitos reservados a P.A.W. 2024
+        Todos os direitos reservados a P.A.W. e Associados2024
     </footer>
 </body>
 </html>

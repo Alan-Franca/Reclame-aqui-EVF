@@ -119,7 +119,7 @@
     </main>
 
     <footer>
-        Todos os direitos reservados a P.A.W. 2024
+        Todos os direitos reservados a P.A.W. e Associados 2024
     </footer>
 </body>
 </html>

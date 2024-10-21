@@ -226,7 +226,7 @@
         </div>
     </main>
     <footer>
-        <p>&copy; Todos os direitos reservados a P.A.W. 2024</p>
+        <p>&copy; Todos os direitos reservados a P.A.W. e Associados 2024</p>
     </footer>
 </body>
 </html>
